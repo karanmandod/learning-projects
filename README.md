@@ -1,2 +1,2 @@
 # learning-projects
-This are my learning projects only and maybe practice projects too
+This are my learning projects only or maybe practice projects too
